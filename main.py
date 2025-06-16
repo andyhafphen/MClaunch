@@ -2,7 +2,7 @@ import os, random, json, requests, subprocess, zipfile, platform, threading, tim
 import tkinter as tk
 # CONFIG
 VERSION = "1.21.1"
-FAST_DOWNLOAD = True # DOSENT INSTALL ASSETS (USE FOR DEBUG)
+FAST_DOWNLOAD = False # DOSENT INSTALL ASSETS (USE FOR DEBUG)
 BASE_DIR = os.path.join(os.getcwd(), "instances", VERSION)
 
 LIB_DIR = os.path.join(BASE_DIR, "libraries")
