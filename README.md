@@ -1,15 +1,17 @@
 # MClaunch
-Minecraft Launcher / Downloader (without authentication)
+## Minecraft Launcher / Downloader (without authentication)
 
-windows compatible (tested with): Temurin 21.0.7+6-LTS, Windows 64 bit (.MSI)
+### windows compatible 
+(tested with): Temurin 21.0.7+6-LTS, Windows 64 bit (.MSI)
 
-linux compatible (tested with): java-21-openjdk-headless (Fedora 41 - x86_64 - Updates)
+### linux compatible 
+(tested with): java-21-openjdk-headless (Fedora 41 - x86_64 - Updates)
 
-requires: 
+### requires: 
 tkinter
 requests
 
-downloads:
+### downloads:
 
 https://adoptium.net/en-GB/temurin/releases/?os=any&arch=any&version=21
 
