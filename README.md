@@ -86,7 +86,7 @@ Contributions are welcome! If you have suggestions for improvements or find bugs
 
 ## Acknowledgments
 
-- Thanks to the minecraft community for their support and feedback.
+- Thanks to the Minecraft community for their support and feedback.
 - Special thanks to the developers of the libraries used in this project.
 ```
 
