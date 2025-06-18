@@ -1,6 +1,6 @@
 # MClaunch
 
-MClaunch is a simple and user-friendly launcher for Minecraft that allows users to easily download and manage different versions of the game. It features a graphical user interface (GUI) built with Tkinter and supports configuration through a settings file.
+MClaunch is a simple and user-friendly launcher for Minecraft that allows users to easily download and manage different versions of the game. It features a graphical user interface (GuI) built with Tkinter and supports configuration through a settings file.
 
 ## Features
 
