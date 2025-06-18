@@ -10,7 +10,7 @@ MClaunch is a simple and user-friendly launcher for Minecraft that allows users 
 - Configuration file support for personalized settings.
 - Enhanced error handling and logging for better user experience.
 
-## Requirements
+## Requireents
 
 - Python 3.x
 - Required Python packages:
