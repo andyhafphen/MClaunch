@@ -7,7 +7,7 @@ MClaunch is a simple and user-friendly launcher for Minecraft that allows users 
 - Download and install multiple versions of Minecraft.
 - Manage game assets and libraries automatically.
 - User-friendly GUI for easy navigation and operation.
-- Confiuration file support for personalized settings.
+- Configuration file support for personalized settings.
 - Enhanced error handling and logging for better user experience.
 
 ## Requirements
