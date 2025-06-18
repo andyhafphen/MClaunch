@@ -38,7 +38,7 @@ MClaunch is a simple and user-friendly launcher for Minecraft that allows users 
 
 ## Configuration
 
-MClaunch uses a coNfiguration file to manage user settings. You can find the configuration file in the project directory. Here’s an example of the configuration format:
+MClaunch uses a configuration file to manage user settings. You can find the configuration file in the project directory. Here’s an example of the configuration format:
 
 ```ini
 [runtime]
