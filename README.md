@@ -18,7 +18,7 @@ MClaunch is a simple and user-friendly launcher for Minecraft that allows users 
   - `tkinter` (usually included with Python)
   - `zipfile` (usually included with Python)
 
-## Installation
+## installation
 
 1. Clone the repository:
    ```bash
